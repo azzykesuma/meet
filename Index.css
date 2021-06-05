@@ -177,7 +177,7 @@ h2 {
 }
 
 .footerImg {
-    background : url('./assets/desktop/image-footer.jpg') no-repeat;
+    background : url('./meet-landing-page/starter-code/assets/desktop/image-footer.jpg') no-repeat;
     background-size: auto 500px;
     background-position: center;
     object-fit: cover;
@@ -225,7 +225,9 @@ h2 {
     .img {
         width : 23em;
     }
-
+    .buttonWrapper {
+        display : inline;
+    }
     p {
         max-width : 30em;
     }
